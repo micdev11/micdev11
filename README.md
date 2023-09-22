@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 🌱 I’m currently learning **React, Node, Django**
+- 🌱 I’m currently learning **React, Express, Django**
 
 
 <p align="left">
