@@ -14,11 +14,11 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micendev&show_icons=true&locale=en&layout=compact" alt="micendev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micdev11&show_icons=true&locale=en&layout=compact" alt="micdev11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micendev&show_icons=true&locale=en" alt="micendev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micdev11&show_icons=true&locale=en" alt="micdev11" /></p>
 
 
 
 <h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micendev" alt="micendev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micdev11" alt="micdev11" /></a> </p>
