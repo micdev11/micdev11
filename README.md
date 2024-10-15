@@ -14,11 +14,11 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micdev11&show_icons=true&locale=en&layout=compact" alt="micdev11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micdev11&show_icons=true&locale=en&layout=compact&theme=dark" alt="micdev11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micdev11&show_icons=true&locale=en" alt="micdev11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micdev11&show_icons=true&locale=en&include_all_commits=true&theme=dark" alt="micdev11" /></p>
 
 
 
 <h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micdev11" alt="micdev11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micdev11&include_all_commits=true&theme=darkhub" alt="micdev11" /></a> </p>
